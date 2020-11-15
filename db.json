@@ -1,13 +1,6 @@
 {
   "nincslink": {
   },
-  "vanlink": {
-    "id": 1,
-    "eppn": "user1@idp.eduid.szabogyula.site",
-    "aat_id": "user_1_eduid_id",
-    "idp_id": "https://idp.eduid.szabogyula.site/simplesaml/saml2/idp/metadata.php",
-    "created_at": ""
-  },
   "link": {
     "id": 1,
     "eppn": "user1@idp.eduid.szabogyula.site",
